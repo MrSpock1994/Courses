@@ -17,5 +17,5 @@ List of all the courses i did
 •	KPIs - measuring performance indicators – Udemy – workload 2 hours \
 •	Python for Data Analysis – Data Science Academy – workload 60 horas \
 •	Data Analysis with Python and Pandas – Udemy – workload 20 hours \
-• FastAPI course with Oauth and JWT Authentication - Udemy - workload 5.5 hours
+• FastAPI course with Oauth and JWT Authentication - Udemy - workload 5.5 hours \
 • GUI Developmento with Python and Tkinter - Udemy - workload 11 hours
