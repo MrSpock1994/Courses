@@ -19,4 +19,5 @@ List of all the courses i did
 •	Data Analysis with Python and Pandas – Udemy – workload 20 hours \
 • FastAPI course with Oauth and JWT Authentication - Udemy - workload 5.5 hours \
 • GUI Developmento with Python and Tkinter - Udemy - workload 11 hours \
-• SAP Automation with VBA - Udemy - workload 4.5 hours
+• SAP Automation with VBA - Udemy - workload 4.5 hours \ 
+• Software Development: Better Requirements Gathering Skills
