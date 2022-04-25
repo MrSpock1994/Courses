@@ -15,6 +15,6 @@ List of all the courses i did
 •	Data Analysis with Pivot Table – Udemy – workload 4 hours \
 •	Data Manipulation and Analysis with Pandas / Python – Udemy – workload 6 hours \
 •	KPIs - measuring performance indicators – Udemy – workload 2 hours \
-•	Python for Data Analysis – Data Science Academy – 60 horas \
-•	Data Analysis with Python and Pandas – Udemy – 20 hours \
-• FastAPI course with Oauth and JWT Authentication - Udemy - 5.5 hours
+•	Python for Data Analysis – Data Science Academy – workload 60 horas \
+•	Data Analysis with Python and Pandas – Udemy – workload 20 hours \
+• FastAPI course with Oauth and JWT Authentication - Udemy - workload 5.5 hours
