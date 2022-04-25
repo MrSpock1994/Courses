@@ -20,4 +20,5 @@ List of all the courses i did
 • FastAPI course with Oauth and JWT Authentication - Udemy - workload 5.5 hours \
 • GUI Developmento with Python and Tkinter - Udemy - workload 11 hours \
 • SAP Automation with VBA - Udemy - workload 4.5 hours \
-• Software Development: Better Requirements Gathering Skills - Udemy - workload 1.5 hours
+• Software Development: Better Requirements Gathering Skills - Udemy - workload 1.5 hours \
+• HTML and CSS - Udemy - workload 7 hours
