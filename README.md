@@ -1,7 +1,7 @@
 # Courses
 List of all the courses i did
 
-•	Complete course in macros and VBA – Udemy – workload 50 hours. 
+•	Complete course in macros and VBA – Udemy – workload 50 hours. \
 •	VBA for excel – Udemy – workload 10 hours 
 •	Complete Power BI – Udemy – workload 15 hours 
 •	Complete Python – Curso em vídeo – workload 120 hours 
