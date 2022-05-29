@@ -22,4 +22,5 @@ List of all the courses i did
 • SAP Automation with VBA - Udemy - workload 4.5 hours \
 • Software Development: Better Requirements Gathering Skills - Udemy - workload 1.5 hours \
 • HTML and CSS - Udemy - workload 7 hours \
-• Perl Programming - Udemy - workload 7.5 hours 
+• Perl Programming - Udemy - workload 7.5 hours \
+• Introduction to Git and GitLab
