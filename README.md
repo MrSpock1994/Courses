@@ -23,4 +23,5 @@ List of all the courses i did
 • Software Development: Better Requirements Gathering Skills - Udemy - workload 1.5 hours \
 • HTML and CSS - Udemy - workload 7 hours \
 • Perl Programming - Udemy - workload 7.5 hours \
-• Introduction to Git and GitLab - Udemy - workload 1.5 hours
+• Introduction to Git and GitLab - Udemy - workload 1.5 hours \
+* Python Advanced - Udemy - workload 6.5 hours
