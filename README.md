@@ -24,4 +24,5 @@ List of all the courses i did
 • HTML and CSS - Udemy - workload 7 hours \
 • Perl Programming - Udemy - workload 7.5 hours \
 • Introduction to Git and GitLab - Udemy - workload 1.5 hours \
-• Python Advanced - Udemy - workload 6.5 hours
+• Python Advanced - Udemy - workload 6.5 hours \
+• Learn Ubuntu - Udemy - workload 6.5 hours
