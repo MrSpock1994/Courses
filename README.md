@@ -28,4 +28,5 @@ List of all the courses i did
 • Learn Ubuntu - Udemy - workload 6.5 hours \
 • Unit Testing and Test Driven Development in Python - Udemy - workload 2 hours \
 • Learning Perl 5 - Udemy - workload 14 hours \
-• Red Hat Certified Engineer (EX294) Cert Prep: 1 Foundations of Ansible - Linkedin - workload 2 hours
+• Red Hat Certified Engineer (EX294) Cert Prep: 1 Foundations of Ansible - Linkedin - workload 2 hours \
+• Red Hat Certified Engineer (EX294) Cert Prep: 2 Using Ansible Playbooks - Linkedin - workload 2 hours
